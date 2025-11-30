@@ -5,10 +5,10 @@
 ---
 
 ## 👥 Team Details  
-- *Shreyas Patil* (Backend Developer) 
-- *Mayur Narkhede* (Frontend Developer)
-- *Kaivalya Sawant*  (MERN Stack Developer)
-- *Alok Sahoo*  (UX/UI desiner)
+- *Shreyas Patil*  
+- *Mayur Narkhede*
+- *Kaivalya Sawant*  
+- *Alok Sahoo*  
 
 ---
 
@@ -79,5 +79,3 @@ Develop a *comprehensive smart water management application* for urban Indian ho
 - Generate water-saving reports.  
 
 ---
-
-## 📂 Project Structure
